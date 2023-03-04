@@ -3,7 +3,7 @@
    <h3 align="center">Hola!! Soy Waldo Hidalgo y bienvenidos a mi perfil en GitHub 👋</h3>
 </p>
 <p align="center">
- Soy un <b>Ingeniero Civil Industrial</b> el cual ha decidido hacer un cambio de perfil profesional a uno <b>informático</b> al sentirme decepcionado de las opciones laborales a las que tengo acceso pues no me permiten ni crecer ni tener estabilidad profesional. Mi búsqueda en esta área es clara pues busco crear mis propios proyectos con posibilidad de gestión por mi mismo u otros.
+ Soy un <b>Ingeniero Civil Industrial👨‍🎓</b> el cual ha decidido hacer un cambio de perfil profesional a uno <b>informático</b> al sentirme decepcionado de las opciones laborales a las que tengo acceso pues no me permiten ni crecer ni tener estabilidad profesional. Mi búsqueda en esta área es clara pues busco crear mis propios proyectos con posibilidad de gestión por mi mismo u otros.
 </p>
 <p align="center">
 Para lograr mis metas actualmente estoy aprendiendo la teoría detrás de lenguajes de programación. Deseo especializarme en <b>Python🐍</b> ya que este es <b>EL</b> lenguaje de programación que me permite de manera practica y directa crear proyectos sin adentrarme en temas demasiado técnicos de bajo nivel. Además estoy aprovechando cada oportunidad gratuita para aprender. Junto con el aprendizaje de Python también busco aprender lo necesario para el desarrollo web. 
