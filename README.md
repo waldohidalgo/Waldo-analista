@@ -12,7 +12,7 @@ Para lograr mis metas actualmente estoy aprendiendo la teoría detrás de lengua
 <p align="center"> Poseo LinkedIn y este es el link:
    <a href="https://www.linkedin.com/in/waldo-hidalgo-oyarce/" target="blank" style='margin-right:5px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="28px" width="28px" />
-  </a>. Además tengo en construcción mi propia página web: <a href="https://www.waldohidalgo.cl/" target="blank" style='margin-right:5px'>www.waldohidalgo.cl</a> la cual estoy construyendo usando Wordpress y Elementor Pro.
+  </a>. Además tengo en construcción mi propia página web: <a href="https://www.waldohidalgo.cl/" target="blank" style='margin-right:5px'>www.waldohidalgo.cl</a> la cual estoy construyendo usando Wordpress y Elementor Pro. Estoy construyendo mi propia tienda virtual en ella.
 </p>
 
 
