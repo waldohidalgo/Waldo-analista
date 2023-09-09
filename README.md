@@ -1,7 +1,7 @@
-   <h3 align="center">¡¡ Hola !! Mi nombre es Waldo Hidalgo Oyarce y bienvenidos a mi perfil en GitHub 👋</h3>
-   <p align="center"> Mi profesión primera es <b>Ingeniería Civil Industrial</b> titulado en la Universidad de Santiago de Chile. En los últimos años he ido especializandome como Data Analyst y como Front End Developer. Ahora estoy 100% orientado a crear sitios web y tiendas virtuales en ellos. Sin embargo, no desecho la idea de la dirección de proyectos de IT para lo cual me certificaré como Product Owner.</p>
+<h3 align="center">¡¡ Hola !! Mi nombre es Waldo Hidalgo Oyarce y bienvenidos a mi perfil en GitHub 👋</h3>
+<p align="center"> Mi profesión primera es <b>Ingeniería Civil Industrial</b> titulado en la Universidad de Santiago de Chile. En los últimos años he ido especializandome como Data Analyst y como Front End Developer. Ahora estoy 100% orientado a crear sitios web y tiendas virtuales en ellos. Sin embargo, no desecho la idea de la dirección de proyectos de IT para lo cual me certificaré como Product Owner.</p>
 
-   <h3 align="center">Mis estudios y certificaciones a la fecha son la siguientes:</h3>
+<h3 align="center">Mis estudios y certificaciones a la fecha son la siguientes:</h3>
 
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2002-2007: Instituto Nacional José Miguel Carrera orientación matemática egresado con promedio 6,0 sobre 7,0</p>
 <p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2008-2015: Ingeniería Civil Industrial Titulado con promedio 6,4 sobre 7,0</p>
@@ -22,13 +22,21 @@
 
 <h3 align="center">📊 A continuación muestro un resumen de las estadisticas de mi perfil de github:</h3>
 
-<p align="center">-Visualizaciones de mi perfil: <img style='margin-bottom:-5px'src="https://img.shields.io/badge/Profile%20Views-X-Yellow" alt='cantidad de visualizaciones'/>     -Cantidad de Seguidores: <img style='margin-bottom:-5px'src="https://img.shields.io/github/followers/Waldo-analista" alt='cantidad de seguidores'/></p>
+<p align="center">-Visualizaciones de mi perfil: <img style='margin-bottom:-5px'src="https://visitcount.itsvg.in/api?id=Waldo-analista&icon=0&color=3" alt='cantidad de visualizaciones'/>     -Cantidad de Seguidores: <img style='margin-bottom:-5px'src="https://img.shields.io/github/followers/Waldo-analista" alt='cantidad de seguidores'/></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Waldo-analista&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt='estadisticas'/></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waldo-analista&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" alt='estadisticas'/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waldo-analista&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" alt='estadisticas top lenguajes'/></p>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Waldo-analista&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4" alt='estadisticas'/></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Waldo-analista&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt='estadisticas trofeos'/></p>
+
+<h3 align="center">🔝 Mi repositorio con más contribuciones</h3>
+
+<p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=Waldo-analista&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt='estadisticas top repo'/></p>
+
+<h3 align="center"> 😂 Memes Random para hacer más llevadera la programación</h3>
+
+<p align="center"><img style="width:400px" src="https://randommeme-five.vercel.app/" alt='meme'/></p>
 
 <!--
 **Waldo-analista/Waldo-analista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
