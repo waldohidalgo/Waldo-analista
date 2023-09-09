@@ -37,7 +37,7 @@
 
 <h3 align="center"> 😂 Memes Random para hacer más llevadera la programación</h3>
 
-<p align="center"><img style="width:400px" src="https://randommeme-five.vercel.app/" alt='meme'/></p>
+<p align="center"><img style="width:400px;border:5px solid yellow;border-radius:30px" src="https://randommeme-five.vercel.app/" alt='meme'/></p>
 
 <!--
 **Waldo-analista/Waldo-analista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
