@@ -1,26 +1,34 @@
+   <h3 align="center">¡¡ Hola !! Mi nombre es Waldo Hidalgo Oyarce y bienvenidos a mi perfil en GitHub 👋</h3>
+   <p align="center"> Mi profesión primera es <b>Ingeniería Civil Industrial</b> titulado en la Universidad de Santiago de Chile. En los últimos años he ido especializandome como Data Analyst y como Front End Developer. Ahora estoy 100% orientado a crear sitios web y tiendas virtuales en ellos. Sin embargo, no desecho la idea de la dirección de proyectos de IT para lo cual me certificaré como Product Owner.</p>
+
+   <h3 align="center">Mis estudios y certificaciones a la fecha son la siguientes:</h3>
+
+<p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2002-2007: Instituto Nacional José Miguel Carrera orientación matemática egresado con promedio 6,0 sobre 7,0</p>
+<p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2008-2015: Ingeniería Civil Industrial Titulado con promedio 6,4 sobre 7,0</p>
+<p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2022: Data Analyst by Coursera e IBM y Data Analyst in Power BI by Microsoft, en ambos estoy certificado</p>
+<p align="center"><img style="width:16px" src="https://img.icons8.com/emoji/48/check-mark-emoji.png" alt="check-mark-emoji"/> Año 2023: PCEP Python Institute y Front End Developer por el programa Oracle Next Education</p>
+
+<h3 align="center">🌐 Mis redes sociales son las siguientes:</h3>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/waldo-hidalgo-oyarce/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://www.instagram.com/clasestutoriaswaldo" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"  /></a>
+<a href="https://www.facebook.com/waldohidalgooyarcej" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"  /></a></div>
+
+ <h3 align="center" >💻 Tech Stack: Las tecnologías que manejo en distinto grado de habilidad son las siguientes:</h3>
+
 <p align="center">
-   
-   <h3 align="center">Hola!! Soy Waldo Hidalgo y bienvenidos a mi perfil en GitHub 👋</h3>
-</p>
-<p align="center">
- Soy un <b>Ingeniero Civil Industrial👨‍🎓</b> el cual ha decidido hacer un cambio de perfil profesional a uno <b>informático</b> al sentirme decepcionado de las opciones laborales a las que tengo acceso pues no me permiten ni crecer ni tener estabilidad profesional. Mi búsqueda en esta área es clara pues busco crear mis propios proyectos con posibilidad de gestión por mi mismo u otros.
-</p>
-<p align="center">
-Para lograr mis metas actualmente estoy aprendiendo la teoría detrás de lenguajes de programación. Deseo especializarme en <b>Python🐍</b> ya que este es <b>EL</b> lenguaje de programación que me permite de manera practica y directa crear proyectos sin adentrarme en temas demasiado técnicos de bajo nivel. Además estoy aprovechando cada oportunidad gratuita para aprender. Junto con el aprendizaje de Python también busco aprender lo necesario para el desarrollo web. 
-</p>
+<img style='margin-bottom:-5px,width:50px'src="https://skillicons.dev/icons?i=html,css,py,js,react,git,figma" alt='cantidad de visualizaciones'/><img  src="https://icongr.am/devicon/wordpress-original.svg?size=50&color=currentColor"/><img  src="https://img.icons8.com/color/48/power-bi.png" alt="power-bi"/></p>
 
-<p align="center"> Poseo LinkedIn y este es el link:
-   <a href="https://www.linkedin.com/in/waldo-hidalgo-oyarce/" target="blank" style='margin-right:5px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="28px" width="28px" />
-  </a>. Además tengo en construcción mi propia página web: <a href="https://www.waldohidalgo.cl/" target="blank" style='margin-right:5px'>www.waldohidalgo.cl</a> la cual estoy construyendo usando Wordpress y Elementor Pro. Estoy construyendo mi propia tienda virtual en ella.
-</p>
+<h3 align="center">📊 A continuación muestro un resumen de las estadisticas de mi perfil de github:</h3>
 
+<p align="center">-Visualizaciones de mi perfil: <img style='margin-bottom:-5px'src="https://img.shields.io/badge/Profile%20Views-X-Yellow" alt='cantidad de visualizaciones'/>     -Cantidad de Seguidores: <img style='margin-bottom:-5px'src="https://img.shields.io/github/followers/Waldo-analista" alt='cantidad de seguidores'/></p>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Waldo-analista&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt='estadisticas'/></p>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waldo-analista&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" alt='estadisticas'/></p>
 
-
-
-
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Waldo-analista&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4" alt='estadisticas'/></p>
 
 <!--
 **Waldo-analista/Waldo-analista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
