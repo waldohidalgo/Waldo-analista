@@ -1,7 +1,6 @@
 <!---
-Repositorio de readme.md de nombre de usuario anterior
-
-
+Repositorio de readme.md de nombre de mi nombre de usuario anterior
+llamado Waldo-analista
 -->
 <h3 align="center">¡¡ Hola !! Mi nombre es Waldo Hidalgo Oyarce y bienvenidos a mi perfil en GitHub 👋</h3>
 <p align="center"> Mi profesión primera es <b>Ingeniería Civil Industrial</b> titulado en la Universidad de Santiago de Chile. En los últimos años he ido especializandome como Data Analyst y como Front End Developer. Ahora estoy 100% orientado a crear sitios web y tiendas virtuales en ellos. Sin embargo, no desecho la idea de la dirección de proyectos de IT para lo cual me certificaré como Product Owner.</p>
